@@ -22,12 +22,16 @@ Outdated devices introduce security risk
 
 This project automates the entire lifecycle of OS version enforcement using trusted public data sources and Microsoft Graph.
 
+
+
 🚀 Key Features
 🌐 Multi-Platform Support
 
 Windows
 
 macOS
+
+
 
 
 🛡 Policy Automation
@@ -39,6 +43,8 @@ Updates Intune App Protection Policies
 Supports minimum OS versions and build ranges
 
 
+
+
 🔄 Smart Update Cadence
 
 Configurable delay between OS release and enforcement
@@ -47,6 +53,9 @@ Prevents breaking production devices
 
 Optional force-apply for emergency security enforcement
 
+
+
+
 🔐 Secure Authentication Options
 
 Azure Automation Managed Identity
@@ -54,6 +63,9 @@ Azure Automation Managed Identity
 App Registration with Certificate
 
 App Registration with Secret (Key Vault supported)
+
+
+
 
 🧠 Safety & Reliability
 
@@ -64,6 +76,9 @@ Downgrade protection
 Built-in retry logic
 
 Detailed execution logs
+
+
+
 
 🧩 Architecture & Data Sources
 
@@ -83,6 +98,9 @@ Azure Automation
 
 Secure, scheduled execution using Managed Identity
 
+
+
+
 🛠 Technology Stack
 
 PowerShell 5.1+
@@ -96,6 +114,9 @@ Azure Key Vault
 REST APIs
 
 Enterprise Logging & Error Handling
+
+
+
 
 ⚙️ How It Works (High Level)
 For iOS, iPadOS, Android, macOS
@@ -123,13 +144,25 @@ or minimum OS version
 Align app protection policies with selected build
 
 
+
+
+
 🧪 Execution Modes
 
 Dry Run – Preview changes without modifying policies
 
+
+
+
+
 🙌 Acknowledgment
 
 Special thanks to the NXTeam Cloud Community for continuous knowledge sharing, collaboration, and technical support throughout my cloud and security learning journey.
+
+
+
+
+
 
 📊 Sample Output
 
